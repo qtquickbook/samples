@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SpectrumView.qml</file>
+        <file>LevelMeter.qml</file>
+        <file>Spectrum.qml</file>
+        <file>PanelLayout.qml</file>
+        <file>Title.qml</file>
+        <file>AxisLabel.qml</file>
+        <file>FrequencyLabel.qml</file>
+        <file>Marker.qml</file>
+    </qresource>
+</RCC>

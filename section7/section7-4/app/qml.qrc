@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>LevelMeter.qml</file>
+        <file>Title.qml</file>
+    </qresource>
+</RCC>
